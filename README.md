@@ -26,7 +26,7 @@ The analysis provided insights into:
 - Business recommendations for discount strategies
 
 ## Contributing
-We welcome contributions from the community. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+Contributions from the community are welcome. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
