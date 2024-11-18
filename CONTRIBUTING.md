@@ -35,7 +35,7 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to create a 
 If you find a bug, please open an issue and describe the problem in detail. Include steps to reproduce the bug, the expected behavior, and the actual behavior. Screenshots and error messages are helpful.
 
 ### Suggesting Enhancements
-We welcome suggestions for enhancements. If you have an idea for a new feature, please open an issue and describe your idea clearly. Explain why the feature would be useful and how it can be implemented.
+Suggestions for enhancements are very much welcome. If you have an idea for a new feature, please open an issue and describe your idea clearly. Explain why the feature would be useful and how it can be implemented.
 
 ### Adding New Features
 - Ensure your feature aligns with the project goals.
