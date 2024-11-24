@@ -17,6 +17,10 @@ Eniac's Discount Strategy Analysis aims to evaluate the impact of discounts on s
 4. **Strategic Planning**: Proposed strategic discount timings to balance revenue generation and brand perception.
 5. **Competitor Analysis (Future works and/or open-to-collaboration)**: To monitor industry trends and competitor strategies to refine discount approaches.
 
+## Links to Previous and Next Projects
+1. **Previous Project**: [Magist Eniac Case Study](https://github.com/IstinNew/magist-eniac-case-study)
+2. **Next Project**: [Eniac A/B Testing Insight](https://github.com/IstinNew/Eniac_AB_Insight)
+
 ## Results
 The analysis provided insights into:
 - Revenue trends over time
